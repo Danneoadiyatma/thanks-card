@@ -52,7 +52,7 @@ export default function LetterGallery({ letters, onLetterClick }: LetterGalleryP
         >
           <p className="font-serif text-medium-brown text-lg" data-testid="text-interaction-hint">
             <span className="text-soft-coral mr-2">👆</span>
-            maap klo server lag, pake github pages soalnya
+            sorry kalo lag, pake hostingan gratisan wkwk. sama maap kalo surat nya template
           </p>
         </motion.div>
       </div>

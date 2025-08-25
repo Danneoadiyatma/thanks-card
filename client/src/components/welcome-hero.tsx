@@ -61,7 +61,7 @@ export default function WelcomeHero({ onEnter, audioEnabled, onToggleAudio }: We
           transition={{ duration: 1, delay: 1 }}
           data-testid="welcome-description"
         >
-          we've prepared something very special for you - a collection of heartfelt letters from me.
+          i've prepared something very special for you all - a collection of heartfelt letters from me.
         </motion.p>
         
         <motion.div
